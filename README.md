@@ -1,6 +1,6 @@
 # Oi Pessoal, Bem vindos ao meu Perfil 👀
 ##
-##   - 🎮 Aprendendo Programação de Jogos Digitais:
+##   - 🎮 Cursando Desenvolvimento de Jogos Digitais:
   - Programação C# e Unity;
   - Level Design;
   
